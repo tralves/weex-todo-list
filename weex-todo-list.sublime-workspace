@@ -1,0 +1,2396 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"console",
+				"console.log(\"Name"
+			],
+			[
+				"table",
+				"tableName"
+			],
+			[
+				"db",
+				"dbSize"
+			],
+			[
+				"data",
+				"databaseNames"
+			],
+			[
+				"follo",
+				"Follow-up"
+			],
+			[
+				"da",
+				"databaseName"
+			],
+			[
+				"atta",
+				"attachment"
+			],
+			[
+				"attc",
+				"attachments"
+			],
+			[
+				"enri",
+				"enrichment-options\t(question.js)"
+			],
+			[
+				"lin",
+				"linkAudio"
+			],
+			[
+				"has",
+				"hasAudio\t(speech-question.js)"
+			],
+			[
+				"loaded",
+				"loadedDBRegister\t(loaded-db-register.js)"
+			],
+			[
+				"handleA",
+				"handleAudioElements"
+			],
+			[
+				"handl",
+				"handleVideoElements"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"angula",
+				"angular.element"
+			],
+			[
+				"root",
+				"rootScope"
+			],
+			[
+				"con",
+				"contents"
+			],
+			[
+				"_do",
+				"_downloadAttachmentsForContents"
+			],
+			[
+				"_dow",
+				"_downloadAttachmentsForContent"
+			],
+			[
+				"lis",
+				"listenerUnregister"
+			],
+			[
+				"cou",
+				"courseConcluded"
+			],
+			[
+				"pri",
+				"privacy_policy"
+			],
+			[
+				"priva",
+				"privacy_policy\t(privacy_policy.js)"
+			],
+			[
+				"ser",
+				"service_name\t(show_bbc_news.html)"
+			],
+			[
+				"is",
+				"isAuthenticated"
+			],
+			[
+				"page",
+				"page_title"
+			],
+			[
+				"APP",
+				"APP_SETTINGS\t(app_controller.js)"
+			],
+			[
+				"remo",
+				"remoteCouchUrl"
+			],
+			[
+				"att",
+				"attachName"
+			],
+			[
+				"remote",
+				"remoteCouch\t(pouchdb_provider.js)"
+			],
+			[
+				"tim",
+				"tim-financas\t(utils.js)"
+			],
+			[
+				"A",
+				"APP_SETTINGS"
+			],
+			[
+				"Lessons",
+				"LessonsCtrl\t(lessons-external-link.js)"
+			],
+			[
+				"state",
+				"stateParams"
+			],
+			[
+				"show",
+				"showFree"
+			],
+			[
+				"sho",
+				"showFree"
+			],
+			[
+				"roo",
+				"rootScope"
+			],
+			[
+				"can",
+				"canLoginWithPhoneNumber"
+			],
+			[
+				"isPre",
+				"isPremiumOnly"
+			],
+			[
+				"ispre",
+				"isPremiumOnly"
+			],
+			[
+				"isP",
+				"isPremiumOnly\t(utils.js)"
+			],
+			[
+				"premium_",
+				"premium_only\t(utils.js)"
+			],
+			[
+				"a",
+				"audio"
+			],
+			[
+				"vue",
+				"vue-gdrive"
+			],
+			[
+				"confga",
+				"configArray"
+			],
+			[
+				"get",
+				"getJsonConfigArray"
+			],
+			[
+				"service",
+				"serviceId"
+			],
+			[
+				"Ser",
+				"ServicesConfigService"
+			],
+			[
+				"syn",
+				"synchronized_config"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"stu",
+				"stub-service.json"
+			],
+			[
+				"shou",
+				"shouldReceive\t(OAuthTest.php)"
+			],
+			[
+				"e",
+				"exclude"
+			],
+			[
+				"aut",
+				"authResult"
+			],
+			[
+				"au",
+				"authorize\t(GApi.js)"
+			],
+			[
+				"impor",
+				"importedTitles"
+			],
+			[
+				"serv",
+				"services"
+			],
+			[
+				"extra",
+				"extra_contents"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"conten",
+				"contentId"
+			],
+			[
+				"Pro",
+				"ProfileMenu"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"BB",
+				"BBCFeedImporter\t(BBCFeedImporter.php)"
+			],
+			[
+				"save",
+				"saveImageAndGetImageDetails"
+			],
+			[
+				"base",
+				"baseUrl"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"remove",
+				"removeChild"
+			],
+			[
+				"xml",
+				"xmlContent"
+			],
+			[
+				"newI",
+				"newImage"
+			],
+			[
+				"new",
+				"newImageP"
+			],
+			[
+				"ima",
+				"imageCount"
+			],
+			[
+				"htm",
+				"html\":!0,\"text"
+			],
+			[
+				"created",
+				"created_by\t(ServiceSubscription.php)"
+			],
+			[
+				"image",
+				"imageDecoded"
+			],
+			[
+				"hid",
+				"hidden\t(_form.blade.php)"
+			],
+			[
+				"file-picker",
+				"file-picker-modal\t(app.css)"
+			],
+			[
+				"sele",
+				"selectImageModal"
+			],
+			[
+				"event",
+				"eventTime"
+			],
+			[
+				"EVENT_APP_",
+				"EVENT_APP_CLOSE\t(UpstreamClient.php)"
+			],
+			[
+				"even",
+				"eventTime\t(UserClosedApp.php)"
+			],
+			[
+				"eve",
+				"eventTime"
+			],
+			[
+				"ca",
+				"carbonTimestamp"
+			],
+			[
+				"me",
+				"medals"
+			],
+			[
+				"actingA",
+				"actingAsApi($user"
+			],
+			[
+				"actingAs",
+				"actingAsApi\t(TestCase.php)"
+			],
+			[
+				"Con",
+				"ContentTypeRepository"
+			],
+			[
+				"conte",
+				"contentTypes"
+			],
+			[
+				"meda",
+				"medal_id\t(mlumen_doc.yaml)"
+			],
+			[
+				"pro",
+				"proximity"
+			],
+			[
+				"in",
+				"intensity"
+			],
+			[
+				"up",
+				"_updateLed"
+			],
+			[
+				"conne",
+				"connected\t(getters.js)"
+			],
+			[
+				"UP",
+				"UPDATE_CONNECTION_STATUS\t(actions.js)"
+			],
+			[
+				"change",
+				"changeIntensity"
+			],
+			[
+				"conn",
+				"connected"
+			],
+			[
+				"mdl",
+				"mdl-textfield"
+			],
+			[
+				"compo",
+				"components\t(main.js)"
+			],
+			[
+				"text",
+				"textfield\t(RgbLeds.vue)"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"de",
+				"debug-panel"
+			],
+			[
+				"upstream",
+				"upstream_id"
+			],
+			[
+				"EVENT",
+				"EVENT_GAME_LAUNCH\t(UpstreamClient.php)"
+			],
+			[
+				"U",
+				"UpstreamClient"
+			],
+			[
+				"on",
+				"onUserCourseSubscription\t(CarrierEventListener.php)"
+			],
+			[
+				"UserF",
+				"UserFinishedCourse\t(UserFinishedCourse.php)"
+			],
+			[
+				"course",
+				"course_id"
+			],
+			[
+				"carr",
+				"carrierIntegrator"
+			],
+			[
+				"call",
+				"call_user_func"
+			],
+			[
+				"App",
+				"AppServiceProvider\t(ServiceConfig.php)"
+			],
+			[
+				"t",
+				"turnOff"
+			],
+			[
+				"PI",
+				"PI2GO_POST"
+			],
+			[
+				"ro",
+				"robotState"
+			],
+			[
+				"my",
+				"myPi2Go"
+			],
+			[
+				"Pi",
+				"Pi2Go"
+			],
+			[
+				"ac",
+				"activateRepl"
+			],
+			[
+				"ras",
+				"raspi-soft-pwm"
+			],
+			[
+				"requ",
+				"required"
+			],
+			[
+				"cer",
+				"certificate"
+			],
+			[
+				"Users",
+				"UsersRepository\t(LocalCarrierIntegrator.php)"
+			],
+			[
+				"Service",
+				"ServiceSubscriptionTransformer"
+			],
+			[
+				"serviceS",
+				"service_subscriptions\t(2016_03_14_181658_create_service_subscriptions_collection.php)"
+			],
+			[
+				"R",
+				"Repositories\t(LocalCarrierIntegrator.php)"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"pincode",
+				"pincodeService"
+			],
+			[
+				"Reques",
+				"Request\t(AuthController.php)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n  \"name\": \"weex-todo-list\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Weex HackerNews App, powered by Vue.js.\",\n  \"main\": \"index.js\",\n  \"keywords\": [\n    \"weex\",\n    \"vue\",\n    \"hackernews\",\n    \"javascript\",\n    \"android\",\n    \"ios\"\n  ],\n  \"scripts\": {\n    \"build\": \"webpack\",\n    \"dev\": \"webpack --watch\",\n    \"copy:android\": \"cp dist/index.weex.js android/app/src/main/assets/index.js\",\n    \"copy:ios\": \"cp dist/index.weex.js ios/assets/index.js\",\n    \"copy\": \"npm run copy:android && npm run copy:ios\",\n    \"serve\": \"serve -p 1337\",\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"engines\": {\n    \"node\": \">=4.0\"\n  },\n  \"author\": \"Hanks <zhanghan.me@gmail.com>\",\n  \"license\": \"Apache-2.0\",\n  \"dependencies\": {\n    \"vue\": \"^2.1.10\",\n    \"vue-router\": \"^2.1.1\",\n    \"vuex\": \"^2.1.1\",\n    \"vuex-router-sync\": \"^4.0.1\",\n    \"weex-vue-render\": \"^0.2.0\"\n  },\n  \"devDependencies\": {\n    \"babel-core\": \"^6.20.0\",\n    \"babel-loader\": \"^6.2.9\",\n    \"babel-preset-es2015\": \"^6.18.0\",\n    \"css-loader\": \"^0.26.1\",\n    \"serve\": \"^1.4.0\",\n    \"vue-loader\": \"^10.0.2\",\n    \"vue-template-compiler\": \"^2.1.10\",\n    \"webpack\": \"^1.14.0\",\n    \"weex-loader\": \"^0.4.4\"\n  }\n}\n",
+			"file": "package.json",
+			"file_size": 1177,
+			"file_write_time": 131322775210000000,
+			"settings":
+			{
+				"buffer_size": 1176,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/entry.js",
+			"settings":
+			{
+				"buffer_size": 719,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tiagoalves/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 1694,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "weex-todo-list.sublime-project",
+			"settings":
+			{
+				"buffer_size": 555,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".babelrc",
+			"settings":
+			{
+				"buffer_size": 96,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "js",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"lli",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"gitpu",
+				"Git: Pull"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"snip utest",
+				"Snippet: REQUEST['…']"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"php class",
+				"PHPCompanion:Expand Fully Qualified Class Name"
+			],
+			[
+				"toggle",
+				"phpfmt: toggle PSR2"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"code",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"phpsyn",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"phpun",
+				"PHPUnit: Run"
+			],
+			[
+				"puni",
+				"PHPUnit: Run"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: sear",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 391.0,
+		"history":
+		[
+			"close",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/src",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/src/views"
+	],
+	"file_history":
+	[
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/.eslintrc.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/push-notification/push-notifications.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/package.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/platforms/android/AndroidManifest.xml",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/appcursos_frontend.sublime-project",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/constants/app_settings.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/config.xml",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/CHANGELOG.md",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/oi-financas/scss/ionic.app.scss",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/qualifica/js/app_settings.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/login/sign_in.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/login.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/util/check-old-devices.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/login.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/scss/ionic.app.scss",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/home.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/scss/mlearn-themes/profile.scss",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/oi-financas/js/app_settings.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/home/show_blog.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/profile/index.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/scss/mlearn-themes/general.scss",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/concerns/profile.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/financial-status.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/i18n/i18n-pt-BR.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/goal-simulation/finished.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/goal-simulation/index.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/idiomas/i18n/i18n-en.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/mlearn-teste/i18n/i18n-en.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/oi-fast-learning/i18n/i18n-en.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/oi-financas/i18n/i18n-en.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/oi-qualificacao-profissional/i18n/i18n-en.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/qualifica/i18n/i18n-en.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/tim-financas/i18n/i18n-en.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/to-na-facul/i18n/i18n-en.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/idiomas/i18n/i18n-pt-BR.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/mlearn-teste/i18n/i18n-pt-BR.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/oi-fast-learning/i18n/i18n-pt-BR.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/oi-financas/i18n/i18n-pt-BR.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/oi-qualificacao-profissional/i18n/i18n-pt-BR.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/qualifica/i18n/i18n-pt-BR.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/tim-financas/i18n/i18n-pt-BR.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/to-na-facul/i18n/i18n-pt-BR.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/goal-simulation.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/i18n/i18n-en.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/goal-simulation/goal.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/goal-simulation/partial/form-fields.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/tim-financas/scss/ionic.app.scss",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/to-na-facul/scss/ionic.app.scss",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/oi-fast-learning/scss/ionic.app.scss",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/oi-qualificacao-profissional/scss/ionic.app.scss",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/mlearn-teste/scss/ionic.app.scss",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/idiomas/scss/ionic.app.scss",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/qualifica/scss/ionic.app.scss",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/config/routes.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/_menu.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/scss/build.scss",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/scss/mlearn-themes/list.scss",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/ul_web_hooks/android/android_web_hook.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/menu.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/idiomas/js/app_settings.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/premium/resign.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/premium.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/premium/index.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/tim-financas/config.xml",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/idiomas/config.xml",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/mlearn-teste/config.xml",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/mlearn-teste/js/app_settings.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/oi-fast-learning/config.xml",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/oi-fast-learning/js/app_settings.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/oi-financas/config.xml",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/oi-qualificacao-profissional/config.xml",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/oi-qualificacao-profissional/js/app_settings.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/qualifica/config.xml",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/tim-financas/js/app_settings.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/to-na-facul/config.xml",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/to-na-facul/js/app_settings.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/scss/mlearn-themes/home.scss",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/home/_blog.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/home/_banner.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/courses/index.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/scss/mlearn-themes/media-queries.scss",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/home/show_bbc_news.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/modules/finished.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/profile/_level_header.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/lessons/finished.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/lessons.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/directives/question-list-exam.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/models/profile.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/directives/question-list.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/directives/content-types/questions/question.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/directives/content-types/questions/speech-question.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/directives/content-types/questions/writing-question.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/lessons/switch-content-type.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/ionic.custom.bundle.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/content-types/writing-question.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/content-types/question.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/initializers/load-course-content.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/question-list.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/content-types/text.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/content-types/enrichment-options.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/content-types/speech-question.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/content-types/audio-question.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/content-types/sentence-completing-question.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/lessons-external-link.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/initializers/initialize-app.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/util/loaded-db-register.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/course.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/directives/content-types/questions/audio-question.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/practices.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/feedbacks/writing-question.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/feedbacks/speech-question.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/plugins/cordova-plugin-crosswalk-webview/package.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/exam.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/question-list-exam.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/constants/synclable_resources.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/general/review_modal.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/lessons/show.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/contents/download-images.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/content-types/README.md",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/util/device.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/db/pouchdb_provider.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/util/refresh-token.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/concerns/utils.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/util/saveCourseContents.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/util/fake-uuid.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/contents/download-content.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/plugins/cordova-plugin-media/src/tizen/MediaProxy.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/prepare-data/reload-profile-score.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 114.0,
+		"where_history":
+		[
+			"",
+			"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/",
+			"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs",
+			"",
+			"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs",
+			"",
+			"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/",
+			"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/scss/customs",
+			"",
+			"*.js",
+			"*.json",
+			"*.js",
+			"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend",
+			"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/packs/qualifica",
+			"",
+			"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend-qualifica/js",
+			"",
+			"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/mlumen_api/tests",
+			"",
+			"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend-tim-financas",
+			"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend-tim-financas/js",
+			"/Volumes/MacOSXExt/Users/tiagoalves/Projects/tests/web-quickeditor/src",
+			"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend-tim-financas/js",
+			"*,/Volumes/MacOSXExt/Users/tiagoalves/Projects/tests/realtime-playground/elements",
+			"*",
+			"*.scss",
+			"",
+			"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/mlumen_api",
+			"",
+			"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/mlumen_api/app/Http",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"skipMsisdnValidation",
+			"SKIP_MSISDN_VALIDATION",
+			"dbName",
+			"db",
+			"this._db",
+			"contents",
+			"PushNotifications",
+			"PushNotifications.save",
+			"save_token",
+			"send_token",
+			"push",
+			"mobi",
+			"notice_content_storaged",
+			"walk",
+			"brphonenumber",
+			"ui-br-phone-number",
+			"MAX_NUM",
+			"msisdn",
+			"oldPhoneMask",
+			"loginMask",
+			"mphone",
+			"5",
+			"loginMask",
+			"mask",
+			"MASK",
+			"checkValidMsisdn",
+			"loginMask",
+			"oldPhoneMask",
+			"goal",
+			"text_money_remaining",
+			"saveNew()",
+			"right-option-menus",
+			"ion-popover-view",
+			"carrier_unsubscription_type",
+			"glos",
+			"goal",
+			"glos",
+			"error_init_date_must_be_different_end_date",
+			"error_end_date_greatest_than_init_date",
+			"error_init_date_less_than_current_date",
+			"error_value_greatest_than_cost",
+			"info_saved_money",
+			"info_saving_money",
+			"info_insert_value",
+			"info_confirm_exclusion",
+			"info_help_to_saving",
+			"text_value_in_period",
+			"text_you_need_keep",
+			"text_value_remaining",
+			"text_you_need_keep",
+			"text_money_you_need",
+			"text_money_remaining",
+			"text_money_you_need",
+			"text_money_remaining",
+			"text_goal_result",
+			"text_no_simulation",
+			"text_you_reached_goal",
+			"lbl_dream_conquist",
+			"lbl_dream_cost",
+			"lbl_dream_name",
+			"see_goals",
+			"congratulations",
+			"create_accompaniment",
+			"goal_simulation.months",
+			"goal_simulation.create_accompaniment",
+			"goal_reached",
+			"goal_simulation.see_more",
+			"goal_simulation.my_goals",
+			"create_goal",
+			"goal_simulation.add_founds",
+			"goal_simulation.add_funds",
+			"goal_simulation.calculate",
+			"goal_simulation.delete",
+			"goal_simulation.edit",
+			"goal_simulation.save",
+			"change_goal",
+			"new_goal",
+			"no_goal_yet_message",
+			"no_simulation",
+			"text_no_simulation",
+			"create_accompaniment",
+			"info_create_accompaniment",
+			"text_no_simulation",
+			"goal_simulation",
+			"goal-simulation",
+			"conqui",
+			"goal",
+			"tim",
+			"mlearn/",
+			"mlearn",
+			"tim",
+			"videogular",
+			"\n@",
+			"videogular",
+			"===",
+			"as-form",
+			"app-goal-simulation",
+			"<?",
+			"1.7.2",
+			"back",
+			"function(",
+			"back",
+			"backToApp()",
+			"height: 90%",
+			"90%",
+			"Profile.get",
+			"push",
+			"Debounce",
+			"menu",
+			"102",
+			"walk",
+			"crosswalk",
+			"22",
+			"center",
+			"68px",
+			"header-item",
+			"title-left",
+			"title title-left header-item",
+			"text-ali",
+			"  <div ng-switch-when=\"video\" class=\"padding card\">\n    <ct-text text=\"steps[$index].body\"\n        controlcontent=\"true\"\n        last=\"{{$last}}\"\n        attachments=\"steps[$index].content_attachments\"\n        url=\"isContentDownloaded(steps[$index])? getContentLocalURL(steps[$index]) : steps[$index]['download-url']\">\n    </ct-text>\n    <div ng-bind-html=\"'general.no_connection' | translate\" class=\"no-connection\" ng-if=\"!isOnline() && !isContentDownloaded(steps[$index])\"></div>\n  </div>",
+			"  <div ng-switch-when=\"video\" class=\"padding\">\n    <ct-text text=\"steps[$index].body\"\n        controlcontent=\"true\"\n        last=\"{{$last}}\"\n        attachments=\"steps[$index].content_attachments\"\n        url=\"isContentDownloaded(steps[$index])? getContentLocalURL(steps[$index]) : steps[$index]['download-url']\">\n    </ct-text>\n    <div ng-bind-html=\"'general.no_connection' | translate\" class=\"no-connection\" ng-if=\"!isOnline() && !isContentDownloaded(steps[$index])\"></div>\n  </div>",
+			"    <div ng-bind-html=\"'general.no_connection' | translate\" class=\"no-connection\" ng-if=\"!isOnline() && !isContentDownloaded(steps[$index])\"></div>",
+			"    <ct-text text=\"steps[$index].body\"\n        controlcontent=\"true\"\n        last=\"{{$last}}\"\n        attachments=\"steps[$index].content_attachments\"\n        url=\"isContentDownloaded(steps[$index])? getContentLocalURL(steps[$index]) : steps[$index]['download-url']\">\n    </ct-text>",
+			"<ct-text text=\"steps[$index].body\"\n        controlcontent=\"true\" \n        last=\"{{$last}}\" \n        attachments=\"steps[$index].content_attachments\" \n        url=\"isContentDownloaded(steps[$index])? getContentLocalURL(steps[$index]) : steps[$index]['download-url']\">\n    </ct-text>",
+			"attachments=\"steps[$index].content_attachments\"",
+			"rl=\"isContentDownloaded(steps[$index])? getContentLocalURL(steps[$index]) : steps[$index]['download-url']\">",
+			"    <ct-text text=\"steps[$index].body\" \n        controlcontent=\"true\" \n        last=\"{{$last}}\" \n        attachments=\"steps[$index].content_attachments\" \n        url=\"isContentDownloaded(steps[$index])? getContentLocalURL(steps[$index]) : steps[$index]['download-url']\">\n    </ct-text>",
+			"    <ct-text text=\"steps[$index].body\" \n        controlcontent=\"true\" \n        last=\"{{$last}}\" \n        attachments=\"steps[$index].content_attachmetns\" \n        url=\"isContentDownloaded(steps[$index])? getContentLocalURL(steps[$index]) : steps[$index]['download-url']\">\n    </ct-text>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"error_end_date_greater_than_init_date",
+			"error_value_greater_than_cost",
+			"text_value_you_need",
+			"text_value_remaining",
+			"lbl_goal_value",
+			"lbl_goal_name",
+			"create_followup",
+			"1.7.3",
+			"  ",
+			"Não entendemos o que você",
+			"  ",
+			"TIM finanças",
+			"->decryptedPassword",
+			" ",
+			"  ",
+			"..",
+			"this.",
+			"static::TYPE_LESSON",
+			"static::TYPE_PRACTICE",
+			"static::TYPE_EXAM",
+			"lesson",
+			"api.mlumen.local",
+			"operation success"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								660,
+								668
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										682,
+										683
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										652,
+										653
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".json",
+								"current_syntax": "Seti_UI/icons/Langs/npm JSON",
+								"enabled": false,
+								"last_updated": 1487797965.28
+							},
+							"syntax": "Packages/Seti_UI/icons/Langs/npm JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 155.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/entry.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										51,
+										52
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										41,
+										42
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1487797965.28
+							},
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/tiagoalves/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								745
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										277,
+										278
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										269,
+										270
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".sublime-settings",
+								"current_syntax": "JavaScript/JSON",
+								"enabled": false,
+								"last_updated": 1487797965.28
+							},
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "weex-todo-list.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								552,
+								552
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										551,
+										552
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										66,
+										67
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".sublime-project",
+								"current_syntax": "JavaScript/JSON",
+								"enabled": false,
+								"last_updated": 1487797965.28
+							},
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": ".babelrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": "",
+								"current_syntax": "Text/Plain text",
+								"enabled": false,
+								"last_updated": 1487797965.28
+							},
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 149.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 110.0
+	},
+	"output.git-pull":
+	{
+		"height": 110.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "",
+	"project": "weex-todo-list.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"car",
+				"config/carrier-integrators.php"
+			],
+			[
+				"mlu",
+				"config/mlumen-services.php"
+			],
+			[
+				"app",
+				"js/services/constants/app_settings.js"
+			],
+			[
+				"qualifica/app_se",
+				"packs/qualifica/js/app_settings.js"
+			],
+			[
+				"sign_in",
+				"www/templates/login/sign_in.html"
+			],
+			[
+				"login",
+				"www/templates/login.html"
+			],
+			[
+				"con",
+				"config.xml"
+			],
+			[
+				"home.",
+				"js/controllers/home.js"
+			],
+			[
+				"show",
+				"www/templates/home/show_blog.html"
+			],
+			[
+				"pt",
+				"www/i18n/i18n-pt-BR.json"
+			],
+			[
+				"financ",
+				"js/controllers/financial-status.js"
+			],
+			[
+				"profile",
+				"js/controllers/concerns/profile.js"
+			],
+			[
+				"gene",
+				"scss/mlearn-themes/general.scss"
+			],
+			[
+				"goa",
+				"www/templates/goal-simulation/goal.html"
+			],
+			[
+				"tim-finanioni",
+				"packs/tim-financas/scss/ionic.app.scss"
+			],
+			[
+				"ionic",
+				"packs/tim-financas/scss/ionic.app.scss"
+			],
+			[
+				"routes",
+				"js/config/routes.js"
+			],
+			[
+				"_menu",
+				"www/templates/_menu.html"
+			],
+			[
+				"build.scss",
+				"scss/build.scss"
+			],
+			[
+				"ionic.app",
+				"packs/tim-financas/scss/ionic.app.scss"
+			],
+			[
+				"_men",
+				"www/templates/_menu.html"
+			],
+			[
+				"menu.html",
+				"www/templates/menu.html"
+			],
+			[
+				"android",
+				"ul_web_hooks/android/android_web_hook.html"
+			],
+			[
+				"list",
+				"scss/mlearn-themes/list.scss"
+			],
+			[
+				"resign",
+				"www/templates/premium/resign.html"
+			],
+			[
+				"premiu",
+				"js/controllers/premium.js"
+			],
+			[
+				"lesson/fini",
+				"www/templates/lessons/finished.html"
+			],
+			[
+				"_level",
+				"www/templates/profile/_level_header.html"
+			],
+			[
+				"finishe",
+				"www/templates/modules/finished.html"
+			],
+			[
+				"_blo",
+				"www/templates/home/_blog.html"
+			],
+			[
+				"_banner",
+				"www/templates/home/_banner.html"
+			],
+			[
+				"courses/in",
+				"www/templates/courses/index.html"
+			],
+			[
+				"menu",
+				"www/templates/menu.html"
+			],
+			[
+				"login.html",
+				"www/templates/login.html"
+			],
+			[
+				"home.sc",
+				"scss/mlearn-themes/home.scss"
+			],
+			[
+				"pro",
+				"js/services/models/profile.js"
+			],
+			[
+				"home",
+				"js/controllers/home.js"
+			],
+			[
+				"i18n",
+				"www/i18n/i18n-pt-BR.json"
+			],
+			[
+				"confi",
+				"config.xml"
+			],
+			[
+				"general",
+				"scss/mlearn-themes/general.scss"
+			],
+			[
+				"swi",
+				"www/templates/lessons/switch-content-type.html"
+			],
+			[
+				"writing",
+				"www/templates/directives/content-types/questions/writing-question.html"
+			],
+			[
+				"speech",
+				"www/templates/directives/content-types/questions/speech-question.html"
+			],
+			[
+				"question.html",
+				"www/templates/directives/content-types/questions/question.html"
+			],
+			[
+				"question-lis",
+				"www/templates/directives/question-list.html"
+			],
+			[
+				"question-",
+				"www/templates/directives/question-list-exam.html"
+			],
+			[
+				"spee",
+				"js/directives/content-types/speech-question.js"
+			],
+			[
+				"enrich",
+				"js/directives/content-types/enrichment-options.js"
+			],
+			[
+				"text",
+				"js/directives/content-types/text.js"
+			],
+			[
+				"load",
+				"js/services/initializers/load-course-content.js"
+			],
+			[
+				"ques",
+				"www/templates/directives/question-list.html"
+			],
+			[
+				"question",
+				"js/directives/question-list.js"
+			],
+			[
+				"enrit",
+				"js/directives/content-types/enrichment-options.js"
+			],
+			[
+				"cttex",
+				"js/directives/content-types/text.js"
+			],
+			[
+				"enric",
+				"js/directives/content-types/enrichment-options.js"
+			],
+			[
+				"questi",
+				"js/directives/content-types/question.js"
+			],
+			[
+				"db",
+				"js/services/util/loaded-db-register.js"
+			],
+			[
+				"lesson",
+				"js/controllers/lessons.js"
+			],
+			[
+				"enri",
+				"js/directives/content-types/enrichment-options.js"
+			],
+			[
+				"audio",
+				"www/templates/directives/content-types/questions/audio-question.html"
+			],
+			[
+				"spe",
+				"js/directives/content-types/speech-question.js"
+			],
+			[
+				"senten",
+				"js/directives/content-types/sentence-completing-question.js"
+			],
+			[
+				"writin",
+				"www/templates/directives/content-types/questions/writing-question.html"
+			],
+			[
+				"sw",
+				"www/templates/lessons/switch-content-type.html"
+			],
+			[
+				"quest",
+				"js/directives/content-types/question.js"
+			],
+			[
+				"speech-",
+				"www/templates/directives/content-types/questions/speech-question.html"
+			],
+			[
+				"ritin",
+				"www/templates/feedbacks/writing-question.html"
+			],
+			[
+				"praci",
+				"js/controllers/practices.js"
+			],
+			[
+				"writi",
+				"www/templates/feedbacks/writing-question.html"
+			],
+			[
+				"wri",
+				"www/templates/directives/content-types/questions/writing-question.html"
+			],
+			[
+				"speechque",
+				"www/templates/directives/content-types/questions/speech-question.html"
+			],
+			[
+				"speec",
+				"www/templates/feedbacks/speech-question.html"
+			],
+			[
+				"questionliste",
+				"js/directives/question-list-exam.js"
+			],
+			[
+				"questionli",
+				"www/templates/directives/question-list-exam.html"
+			],
+			[
+				"exam",
+				"js/controllers/exam.js"
+			],
+			[
+				"lesson.js",
+				"js/controllers/lessons-external-link.js"
+			],
+			[
+				"ctte",
+				"js/directives/content-types/text.js"
+			],
+			[
+				"ctwri",
+				"js/directives/content-types/writing-question.js"
+			],
+			[
+				"writ",
+				"www/templates/feedbacks/writing-question.html"
+			],
+			[
+				"exte",
+				"js/controllers/lessons-external-link.js"
+			],
+			[
+				"lesson.html",
+				"www/templates/lessons/show.html"
+			],
+			[
+				"cttext",
+				"js/directives/content-types/text.js"
+			],
+			[
+				"swtch",
+				"www/templates/lessons/switch-content-type.html"
+			],
+			[
+				"ctwr",
+				"www/templates/directives/content-types/questions/writing-question.html"
+			],
+			[
+				"lessons",
+				"js/controllers/lessons.js"
+			],
+			[
+				"swt",
+				"www/templates/lessons/switch-content-type.html"
+			],
+			[
+				"lessone",
+				"js/controllers/lessons-external-link.js"
+			],
+			[
+				"do",
+				"js/services/contents/download-content.js"
+			],
+			[
+				"less",
+				"js/controllers/lessons.js"
+			],
+			[
+				"appse",
+				"js/services/constants/app_settings.js"
+			],
+			[
+				"syn",
+				"js/services/syncronization.js"
+			],
+			[
+				"sync",
+				"js/services/syncronization.js"
+			],
+			[
+				"tex",
+				"js/directives/content-types/text.js"
+			],
+			[
+				"lovefdi",
+				"js/services/db/lovefield/lovefield-db-access.js"
+			],
+			[
+				"swit",
+				"www/templates/lessons/switch-content-type.html"
+			],
+			[
+				"loa",
+				"js/services/initializers/load-course-content.js"
+			],
+			[
+				"questionlist",
+				"www/templates/directives/question-list.html"
+			],
+			[
+				"enritc",
+				"js/directives/content-types/enrichment-options.js"
+			],
+			[
+				"en",
+				"js/directives/content-types/enrichment-options.js"
+			],
+			[
+				"question.js",
+				"js/directives/content-types/question.js"
+			],
+			[
+				"downconten",
+				"js/services/contents/download-content.js"
+			],
+			[
+				"dow",
+				"js/services/contents/download-content.js"
+			],
+			[
+				"option",
+				"js/directives/content-types/enrichment-options.js"
+			],
+			[
+				"content-type",
+				"www/templates/lessons/switch-content-type.html"
+			],
+			[
+				"writt",
+				"www/templates/directives/content-types/questions/writing-question.html"
+			],
+			[
+				"ctqu",
+				"www/templates/directives/content-types/questions/question.html"
+			],
+			[
+				"ctque",
+				"js/directives/content-types/question.js"
+			],
+			[
+				"apps",
+				"js/services/constants/app_settings.js"
+			],
+			[
+				"switch",
+				"www/templates/lessons/switch-content-type.html"
+			],
+			[
+				"content-types",
+				"js/directives/content-types/sentence.js"
+			],
+			[
+				"question-list",
+				"js/directives/question-list-exam.js"
+			],
+			[
+				"text.",
+				"js/directives/content-types/text.js"
+			],
+			[
+				"device",
+				"js/services/util/device.js"
+			],
+			[
+				"menu.",
+				"www/templates/menu.html"
+			],
+			[
+				"teu",
+				"scss/fonts/teuton.scss"
+			],
+			[
+				"premium",
+				"js/controllers/premium.js"
+			],
+			[
+				"cert",
+				"js/controllers/certificates.js"
+			],
+			[
+				"i1",
+				"www/i18n/i18n-pt-BR.json"
+			],
+			[
+				"loginun",
+				"js/services/login/login-unauthorized-handle.js"
+			],
+			[
+				"pre",
+				"js/controllers/premium.js"
+			],
+			[
+				"courses",
+				"js/services/models/courses.js"
+			],
+			[
+				"_pro",
+				"www/templates/courses/_progress.html"
+			],
+			[
+				"routs",
+				"js/config/routes.js"
+			],
+			[
+				"colo",
+				"scss/customs/colors.scss"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"analy",
+				"js/services/util/analytics-events.js"
+			],
+			[
+				"secure",
+				"js/services/constants/secure-pages.js"
+			],
+			[
+				"appcon",
+				"js/controllers/app_controller.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/MacOSXExt/Users/tiagoalves/Projects/github/vue-gdrive/vue-gdrive.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 162.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

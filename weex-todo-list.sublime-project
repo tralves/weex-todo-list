@@ -1,0 +1,30 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"SublimeLinter":
+    {
+		"linters": {
+            "coffeelint": {
+                "@disable": true,
+                "args": [],
+                "excludes": []
+            },
+            "eslint": {
+                "@disable": true,
+                "args": [
+                    "--ext=js,vue"
+                ],
+                "excludes": []
+            },
+            "jshint": {
+                "@disable": true,
+                "args": [],
+                "excludes": []
+            }
+        },
+    }
+}
