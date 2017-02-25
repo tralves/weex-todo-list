@@ -1,8 +1,6 @@
-# Hacker News App
+# Weex To-do list app
 
-[中文版说明文档](./README.zh.md)
-
-A mobile app for [Hacker News](https://news.ycombinator.com/), which is powered by Weex and Vue.
+A demo to-do list app, powered by Weex and Vue.
 
 ## Compile
 
@@ -41,7 +39,9 @@ First you should install [Android Studio](https://developer.android.com/studio/i
 
 Assuming you have configured the Android development environment properly, just use Android Studio to open the project in the `android` folder, and run the app as other normal Android projects.
 
-### Run The iOS Project
+> NOTE: If don't find the android project, open the file `android/build.graddle`. Android Studio will then create the android project.
+
+### Run The iOS Project (not ready yet)
 
 First you should [setup the iOS develop environment](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppStoreDistributionTutorial/Setup/Setup.html) and install the [CocoaPods](https://guides.cocoapods.org/using/getting-started.html).
 
