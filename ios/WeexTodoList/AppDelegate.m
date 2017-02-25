@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  WeexTodo
+//  WeexTodoList
 //
 //  Created by Hanks on 16/12/8.
 //  Copyright © 2016年 Weex. All rights reserved.
@@ -24,7 +24,7 @@
     
     //not necessary
     [WXAppConfiguration setAppGroup:@"Weex"];
-    [WXAppConfiguration setAppName:@"WeexTodo"];
+    [WXAppConfiguration setAppName:@"WeexTodoList"];
     [WXAppConfiguration setAppVersion:@"0.0.1"];
     
     //init SDK environment

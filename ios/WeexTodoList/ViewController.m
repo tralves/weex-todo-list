@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  WeexTodo
+//  WeexTodoList
 //
 //  Created by Hanks on 16/12/8.
 //  Copyright © 2016年 Weex. All rights reserved.
@@ -35,7 +35,7 @@
     
     UIView *statusBar = [[[UIApplication sharedApplication] valueForKey:@"statusBarWindow"] valueForKey:@"statusBar"];
     if ([statusBar respondsToSelector:@selector(setBackgroundColor:)]) {
-        statusBar.backgroundColor = [UIColor colorWithRed:1.00 green:0.40 blue:0.00 alpha:1.0];
+        statusBar.backgroundColor = [UIColor colorWithRed:0.26 green:0.73 blue:0.51 alpha:1.0];
     }
 
     [self render];

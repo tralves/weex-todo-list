@@ -1,6 +1,6 @@
 //
-//  WeexTodoTests.m
-//  WeexTodoTests
+//  WeexTodoListTests.m
+//  WeexTodoListTests
 //
 //  Created by Hanks on 16/12/8.
 //  Copyright © 2016年 Weex. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface WeexTodoTests : XCTestCase
+@interface WeexTodoListTests : XCTestCase
 
 @end
 
-@implementation WeexTodoTests
+@implementation WeexTodoListTests
 
 - (void)setUp {
     [super setUp];

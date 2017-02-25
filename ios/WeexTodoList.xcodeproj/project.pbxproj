@@ -13,13 +13,16 @@
 		17E05FC91DF96DD600607B9A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17E05FC71DF96DD600607B9A /* Main.storyboard */; };
 		17E05FCB1DF96DD600607B9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17E05FCA1DF96DD600607B9A /* Assets.xcassets */; };
 		17E05FCE1DF96DD600607B9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17E05FCC1DF96DD600607B9A /* LaunchScreen.storyboard */; };
-		17E05FD91DF96DD600607B9A /* WeexTodoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 17E05FD81DF96DD600607B9A /* WeexTodoTests.m */; };
-		17E05FE41DF96DD600607B9A /* WeexTodoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 17E05FE31DF96DD600607B9A /* WeexTodoUITests.m */; };
+		17E05FD91DF96DD600607B9A /* WeexTodoListTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 17E05FD81DF96DD600607B9A /* WeexTodoListTests.m */; };
+		17E05FE41DF96DD600607B9A /* WeexTodoListUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 17E05FE31DF96DD600607B9A /* WeexTodoListUITests.m */; };
 		17E05FF81DF97D4B00607B9A /* WXImgLoaderDefaultImpl.m in Sources */ = {isa = PBXBuildFile; fileRef = 17E05FF71DF97D4B00607B9A /* WXImgLoaderDefaultImpl.m */; };
 		17E05FFB1DF97DC800607B9A /* WXEventModule.m in Sources */ = {isa = PBXBuildFile; fileRef = 17E05FFA1DF97DC800607B9A /* WXEventModule.m */; };
 		17E05FFE1DF981EC00607B9A /* index.js in Resources */ = {isa = PBXBuildFile; fileRef = 17E05FFD1DF981EC00607B9A /* index.js */; };
-		E82B64FAE682A6AD32276373 /* libPods-WeexTodoUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 61C0AC550E7EB6A70BB462B7 /* libPods-WeexTodoUITests.a */; };
-		F359FF2283FC87EDF77E4135 /* libPods-WeexTodo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DBDBC03CC20B0E9D389D364E /* libPods-WeexTodo.a */; };
+		59A1BF2490B5A3D9D15FC605 /* libPods-WeexTodoList.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DBDBC03CC20B0E9D389D364E /* libPods-WeexTodoList.a */; };
+		DDB12B821E61422D00D2517A /* libSDWebImage.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DDB12B7D1E6141FB00D2517A /* libSDWebImage.a */; };
+		DDB12B831E61422D00D2517A /* libSocketRocket.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DDB12B7F1E6141FB00D2517A /* libSocketRocket.a */; };
+		DDB12B841E61422D00D2517A /* libWeexSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DDB12B811E6141FB00D2517A /* libWeexSDK.a */; };
+		E82B64FAE682A6AD32276373 /* libPods-WeexTodoListUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 61C0AC550E7EB6A70BB462B7 /* libPods-WeexTodoListUITests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,19 +31,54 @@
 			containerPortal = 17E05FB31DF96DD600607B9A /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 17E05FBA1DF96DD600607B9A;
-			remoteInfo = WeexTodo;
+			remoteInfo = WeexTodoList;
 		};
 		17E05FE01DF96DD600607B9A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 17E05FB31DF96DD600607B9A /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 17E05FBA1DF96DD600607B9A;
-			remoteInfo = WeexTodo;
+			remoteInfo = WeexTodoList;
+		};
+		DDB12B781E6141FB00D2517A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DDB12B701E6141FA00D2517A /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = DD9CBDDD412E3DBFB09C296471B9305C;
+			remoteInfo = "Pods-WeexTodoList";
+		};
+		DDB12B7A1E6141FB00D2517A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DDB12B701E6141FA00D2517A /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = A8307B19E729E0F7A4416EA3ED0A2C86;
+			remoteInfo = "Pods-WeexTodoListUITests";
+		};
+		DDB12B7C1E6141FB00D2517A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DDB12B701E6141FA00D2517A /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = E5BD70B80458EA48B6F9A0A771ED7DF1;
+			remoteInfo = SDWebImage;
+		};
+		DDB12B7E1E6141FB00D2517A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DDB12B701E6141FA00D2517A /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 573840192F6BFE7C92F9FFC4297F99F3;
+			remoteInfo = SocketRocket;
+		};
+		DDB12B801E6141FB00D2517A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DDB12B701E6141FA00D2517A /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 288EF364A92A27D6B5D995B366253235;
+			remoteInfo = WeexSDK;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		17E05FBB1DF96DD600607B9A /* WeexTodo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeexTodo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		17E05FBB1DF96DD600607B9A /* WeexTodoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeexTodoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		17E05FBF1DF96DD600607B9A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		17E05FC11DF96DD600607B9A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		17E05FC21DF96DD600607B9A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -50,11 +88,11 @@
 		17E05FCA1DF96DD600607B9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		17E05FCD1DF96DD600607B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		17E05FCF1DF96DD600607B9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		17E05FD41DF96DD600607B9A /* WeexTodoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeexTodoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		17E05FD81DF96DD600607B9A /* WeexTodoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WeexTodoTests.m; sourceTree = "<group>"; };
+		17E05FD41DF96DD600607B9A /* WeexTodoListTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeexTodoListTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		17E05FD81DF96DD600607B9A /* WeexTodoListTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WeexTodoListTests.m; sourceTree = "<group>"; };
 		17E05FDA1DF96DD600607B9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		17E05FDF1DF96DD600607B9A /* WeexTodoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeexTodoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		17E05FE31DF96DD600607B9A /* WeexTodoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WeexTodoUITests.m; sourceTree = "<group>"; };
+		17E05FDF1DF96DD600607B9A /* WeexTodoListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeexTodoListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		17E05FE31DF96DD600607B9A /* WeexTodoListUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WeexTodoListUITests.m; sourceTree = "<group>"; };
 		17E05FE51DF96DD600607B9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		17E05FF11DF97B6D00607B9A /* AppDefine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDefine.h; sourceTree = "<group>"; };
 		17E05FF61DF97CFA00607B9A /* WXImgLoaderDefaultImpl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXImgLoaderDefaultImpl.h; sourceTree = "<group>"; };
@@ -62,12 +100,13 @@
 		17E05FF91DF97DB300607B9A /* WXEventModule.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WXEventModule.h; sourceTree = "<group>"; };
 		17E05FFA1DF97DC800607B9A /* WXEventModule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WXEventModule.m; sourceTree = "<group>"; };
 		17E05FFD1DF981EC00607B9A /* index.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
-		263F1855A5A2B8F7762D1039 /* Pods-WeexTodo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeexTodo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WeexTodo/Pods-WeexTodo.debug.xcconfig"; sourceTree = "<group>"; };
-		54197007660205E891810945 /* Pods-WeexTodoUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeexTodoUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WeexTodoUITests/Pods-WeexTodoUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		61C0AC550E7EB6A70BB462B7 /* libPods-WeexTodoUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WeexTodoUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		736B20DC613E353FCBAD230D /* Pods-WeexTodo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeexTodo.release.xcconfig"; path = "Pods/Target Support Files/Pods-WeexTodo/Pods-WeexTodo.release.xcconfig"; sourceTree = "<group>"; };
-		D1E1E42B2968C9EDC8288A35 /* Pods-WeexTodoUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeexTodoUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-WeexTodoUITests/Pods-WeexTodoUITests.release.xcconfig"; sourceTree = "<group>"; };
-		DBDBC03CC20B0E9D389D364E /* libPods-WeexTodo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WeexTodo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		263F1855A5A2B8F7762D1039 /* Pods-WeexTodoList.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeexTodoList.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WeexTodoList/Pods-WeexTodoList.debug.xcconfig"; sourceTree = "<group>"; };
+		54197007660205E891810945 /* Pods-WeexTodoListUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeexTodoListUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WeexTodoListUITests/Pods-WeexTodoListUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		61C0AC550E7EB6A70BB462B7 /* libPods-WeexTodoListUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WeexTodoListUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		736B20DC613E353FCBAD230D /* Pods-WeexTodoList.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeexTodoList.release.xcconfig"; path = "Pods/Target Support Files/Pods-WeexTodoList/Pods-WeexTodoList.release.xcconfig"; sourceTree = "<group>"; };
+		D1E1E42B2968C9EDC8288A35 /* Pods-WeexTodoListUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeexTodoListUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-WeexTodoListUITests/Pods-WeexTodoListUITests.release.xcconfig"; sourceTree = "<group>"; };
+		DBDBC03CC20B0E9D389D364E /* libPods-WeexTodoList.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WeexTodoList.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DDB12B701E6141FA00D2517A /* Pods.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Pods.xcodeproj; path = Pods/Pods.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +114,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F359FF2283FC87EDF77E4135 /* libPods-WeexTodo.a in Frameworks */,
+				DDB12B821E61422D00D2517A /* libSDWebImage.a in Frameworks */,
+				DDB12B831E61422D00D2517A /* libSocketRocket.a in Frameworks */,
+				DDB12B841E61422D00D2517A /* libWeexSDK.a in Frameworks */,
+				59A1BF2490B5A3D9D15FC605 /* libPods-WeexTodoList.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,7 +132,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E82B64FAE682A6AD32276373 /* libPods-WeexTodoUITests.a in Frameworks */,
+				E82B64FAE682A6AD32276373 /* libPods-WeexTodoListUITests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -100,10 +142,11 @@
 		17E05FB21DF96DD600607B9A = {
 			isa = PBXGroup;
 			children = (
+				DDB12B701E6141FA00D2517A /* Pods.xcodeproj */,
 				17E05FFC1DF981EC00607B9A /* assets */,
-				17E05FBD1DF96DD600607B9A /* WeexTodo */,
-				17E05FD71DF96DD600607B9A /* WeexTodoTests */,
-				17E05FE21DF96DD600607B9A /* WeexTodoUITests */,
+				17E05FBD1DF96DD600607B9A /* WeexTodoList */,
+				17E05FD71DF96DD600607B9A /* WeexTodoListTests */,
+				17E05FE21DF96DD600607B9A /* WeexTodoListUITests */,
 				17E05FBC1DF96DD600607B9A /* Products */,
 				17E450AD3365FD33DB3DFBB6 /* Pods */,
 				A9ABFBB512E19F57AEF18269 /* Frameworks */,
@@ -113,14 +156,14 @@
 		17E05FBC1DF96DD600607B9A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				17E05FBB1DF96DD600607B9A /* WeexTodo.app */,
-				17E05FD41DF96DD600607B9A /* WeexTodoTests.xctest */,
-				17E05FDF1DF96DD600607B9A /* WeexTodoUITests.xctest */,
+				17E05FBB1DF96DD600607B9A /* WeexTodoList.app */,
+				17E05FD41DF96DD600607B9A /* WeexTodoListTests.xctest */,
+				17E05FDF1DF96DD600607B9A /* WeexTodoListUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		17E05FBD1DF96DD600607B9A /* WeexTodo */ = {
+		17E05FBD1DF96DD600607B9A /* WeexTodoList */ = {
 			isa = PBXGroup;
 			children = (
 				17E05FF21DF97C8200607B9A /* extend */,
@@ -135,7 +178,7 @@
 				17E05FBE1DF96DD600607B9A /* Supporting Files */,
 				17E05FF11DF97B6D00607B9A /* AppDefine.h */,
 			);
-			path = WeexTodo;
+			path = WeexTodoList;
 			sourceTree = "<group>";
 		};
 		17E05FBE1DF96DD600607B9A /* Supporting Files */ = {
@@ -146,22 +189,22 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		17E05FD71DF96DD600607B9A /* WeexTodoTests */ = {
+		17E05FD71DF96DD600607B9A /* WeexTodoListTests */ = {
 			isa = PBXGroup;
 			children = (
-				17E05FD81DF96DD600607B9A /* WeexTodoTests.m */,
+				17E05FD81DF96DD600607B9A /* WeexTodoListTests.m */,
 				17E05FDA1DF96DD600607B9A /* Info.plist */,
 			);
-			path = WeexTodoTests;
+			path = WeexTodoListTests;
 			sourceTree = "<group>";
 		};
-		17E05FE21DF96DD600607B9A /* WeexTodoUITests */ = {
+		17E05FE21DF96DD600607B9A /* WeexTodoListUITests */ = {
 			isa = PBXGroup;
 			children = (
-				17E05FE31DF96DD600607B9A /* WeexTodoUITests.m */,
+				17E05FE31DF96DD600607B9A /* WeexTodoListUITests.m */,
 				17E05FE51DF96DD600607B9A /* Info.plist */,
 			);
-			path = WeexTodoUITests;
+			path = WeexTodoListUITests;
 			sourceTree = "<group>";
 		};
 		17E05FF21DF97C8200607B9A /* extend */ = {
@@ -202,10 +245,10 @@
 		17E450AD3365FD33DB3DFBB6 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				263F1855A5A2B8F7762D1039 /* Pods-WeexTodo.debug.xcconfig */,
-				736B20DC613E353FCBAD230D /* Pods-WeexTodo.release.xcconfig */,
-				54197007660205E891810945 /* Pods-WeexTodoUITests.debug.xcconfig */,
-				D1E1E42B2968C9EDC8288A35 /* Pods-WeexTodoUITests.release.xcconfig */,
+				263F1855A5A2B8F7762D1039 /* Pods-WeexTodoList.debug.xcconfig */,
+				736B20DC613E353FCBAD230D /* Pods-WeexTodoList.release.xcconfig */,
+				54197007660205E891810945 /* Pods-WeexTodoListUITests.debug.xcconfig */,
+				D1E1E42B2968C9EDC8288A35 /* Pods-WeexTodoListUITests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -213,38 +256,50 @@
 		A9ABFBB512E19F57AEF18269 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				DBDBC03CC20B0E9D389D364E /* libPods-WeexTodo.a */,
-				61C0AC550E7EB6A70BB462B7 /* libPods-WeexTodoUITests.a */,
+				DBDBC03CC20B0E9D389D364E /* libPods-WeexTodoList.a */,
+				61C0AC550E7EB6A70BB462B7 /* libPods-WeexTodoListUITests.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DDB12B711E6141FA00D2517A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DDB12B791E6141FB00D2517A /* libPods-WeexTodoList.a */,
+				DDB12B7B1E6141FB00D2517A /* libPods-WeexTodoListUITests.a */,
+				DDB12B7D1E6141FB00D2517A /* libSDWebImage.a */,
+				DDB12B7F1E6141FB00D2517A /* libSocketRocket.a */,
+				DDB12B811E6141FB00D2517A /* libWeexSDK.a */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		17E05FBA1DF96DD600607B9A /* WeexTodo */ = {
+		17E05FBA1DF96DD600607B9A /* WeexTodoList */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 17E05FE81DF96DD600607B9A /* Build configuration list for PBXNativeTarget "WeexTodo" */;
+			buildConfigurationList = 17E05FE81DF96DD600607B9A /* Build configuration list for PBXNativeTarget "WeexTodoList" */;
 			buildPhases = (
-				BD7AE412614B94FEDA664FA7 /* 📦 Check Pods Manifest.lock */,
+				BD7AE412614B94FEDA664FA7 /* [CP] Check Pods Manifest.lock */,
 				17E05FB71DF96DD600607B9A /* Sources */,
 				17E05FB81DF96DD600607B9A /* Frameworks */,
 				17E05FB91DF96DD600607B9A /* Resources */,
-				079BD74D140697E5F4A6E01C /* 📦 Embed Pods Frameworks */,
-				E5131A20CB20BE8609C9FCCF /* 📦 Copy Pods Resources */,
+				079BD74D140697E5F4A6E01C /* [CP] Embed Pods Frameworks */,
+				E5131A20CB20BE8609C9FCCF /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = WeexTodo;
-			productName = WeexTodo;
-			productReference = 17E05FBB1DF96DD600607B9A /* WeexTodo.app */;
+			name = WeexTodoList;
+			productName = WeexTodoList;
+			productReference = 17E05FBB1DF96DD600607B9A /* WeexTodoList.app */;
 			productType = "com.apple.product-type.application";
 		};
-		17E05FD31DF96DD600607B9A /* WeexTodoTests */ = {
+		17E05FD31DF96DD600607B9A /* WeexTodoListTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 17E05FEB1DF96DD600607B9A /* Build configuration list for PBXNativeTarget "WeexTodoTests" */;
+			buildConfigurationList = 17E05FEB1DF96DD600607B9A /* Build configuration list for PBXNativeTarget "WeexTodoListTests" */;
 			buildPhases = (
 				17E05FD01DF96DD600607B9A /* Sources */,
 				17E05FD11DF96DD600607B9A /* Frameworks */,
@@ -255,29 +310,30 @@
 			dependencies = (
 				17E05FD61DF96DD600607B9A /* PBXTargetDependency */,
 			);
-			name = WeexTodoTests;
-			productName = WeexTodoTests;
-			productReference = 17E05FD41DF96DD600607B9A /* WeexTodoTests.xctest */;
+			name = WeexTodoListTests;
+			productName = WeexTodoListTests;
+			productReference = 17E05FD41DF96DD600607B9A /* WeexTodoListTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		17E05FDE1DF96DD600607B9A /* WeexTodoUITests */ = {
+		17E05FDE1DF96DD600607B9A /* WeexTodoListUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 17E05FEE1DF96DD600607B9A /* Build configuration list for PBXNativeTarget "WeexTodoUITests" */;
+			buildConfigurationList = 17E05FEE1DF96DD600607B9A /* Build configuration list for PBXNativeTarget "WeexTodoListUITests" */;
 			buildPhases = (
-				1E82B827700BB076D4D4331F /* 📦 Check Pods Manifest.lock */,
+				1E82B827700BB076D4D4331F /* [CP] Check Pods Manifest.lock */,
 				17E05FDB1DF96DD600607B9A /* Sources */,
 				17E05FDC1DF96DD600607B9A /* Frameworks */,
 				17E05FDD1DF96DD600607B9A /* Resources */,
-				1E093CBE59C6B139E90321F6 /* 📦 Copy Pods Resources */,
+				1E093CBE59C6B139E90321F6 /* [CP] Copy Pods Resources */,
+				FAC931FCC3A6E6C4C814917F /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 				17E05FE11DF96DD600607B9A /* PBXTargetDependency */,
 			);
-			name = WeexTodoUITests;
-			productName = WeexTodoUITests;
-			productReference = 17E05FDF1DF96DD600607B9A /* WeexTodoUITests.xctest */;
+			name = WeexTodoListUITests;
+			productName = WeexTodoListUITests;
+			productReference = 17E05FDF1DF96DD600607B9A /* WeexTodoListUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -305,7 +361,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 17E05FB61DF96DD600607B9A /* Build configuration list for PBXProject "WeexTodo" */;
+			buildConfigurationList = 17E05FB61DF96DD600607B9A /* Build configuration list for PBXProject "WeexTodoList" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -316,14 +372,58 @@
 			mainGroup = 17E05FB21DF96DD600607B9A;
 			productRefGroup = 17E05FBC1DF96DD600607B9A /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = DDB12B711E6141FA00D2517A /* Products */;
+					ProjectRef = DDB12B701E6141FA00D2517A /* Pods.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
-				17E05FBA1DF96DD600607B9A /* WeexTodo */,
-				17E05FD31DF96DD600607B9A /* WeexTodoTests */,
-				17E05FDE1DF96DD600607B9A /* WeexTodoUITests */,
+				17E05FBA1DF96DD600607B9A /* WeexTodoList */,
+				17E05FD31DF96DD600607B9A /* WeexTodoListTests */,
+				17E05FDE1DF96DD600607B9A /* WeexTodoListUITests */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		DDB12B791E6141FB00D2517A /* libPods-WeexTodoList.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-WeexTodoList.a";
+			remoteRef = DDB12B781E6141FB00D2517A /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		DDB12B7B1E6141FB00D2517A /* libPods-WeexTodoListUITests.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-WeexTodoListUITests.a";
+			remoteRef = DDB12B7A1E6141FB00D2517A /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		DDB12B7D1E6141FB00D2517A /* libSDWebImage.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libSDWebImage.a;
+			remoteRef = DDB12B7C1E6141FB00D2517A /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		DDB12B7F1E6141FB00D2517A /* libSocketRocket.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libSocketRocket.a;
+			remoteRef = DDB12B7E1E6141FB00D2517A /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		DDB12B811E6141FB00D2517A /* libWeexSDK.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libWeexSDK.a;
+			remoteRef = DDB12B801E6141FB00D2517A /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		17E05FB91DF96DD600607B9A /* Resources */ = {
@@ -354,79 +454,94 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		079BD74D140697E5F4A6E01C /* 📦 Embed Pods Frameworks */ = {
+		079BD74D140697E5F4A6E01C /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "📦 Embed Pods Frameworks";
+			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-WeexTodo/Pods-WeexTodo-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-WeexTodoList/Pods-WeexTodoList-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		1E093CBE59C6B139E90321F6 /* 📦 Copy Pods Resources */ = {
+		1E093CBE59C6B139E90321F6 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "📦 Copy Pods Resources";
+			name = "[CP] Copy Pods Resources";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-WeexTodoUITests/Pods-WeexTodoUITests-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-WeexTodoListUITests/Pods-WeexTodoListUITests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		1E82B827700BB076D4D4331F /* 📦 Check Pods Manifest.lock */ = {
+		1E82B827700BB076D4D4331F /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "📦 Check Pods Manifest.lock";
+			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		BD7AE412614B94FEDA664FA7 /* 📦 Check Pods Manifest.lock */ = {
+		BD7AE412614B94FEDA664FA7 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "📦 Check Pods Manifest.lock";
+			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		E5131A20CB20BE8609C9FCCF /* 📦 Copy Pods Resources */ = {
+		E5131A20CB20BE8609C9FCCF /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "📦 Copy Pods Resources";
+			name = "[CP] Copy Pods Resources";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-WeexTodo/Pods-WeexTodo-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-WeexTodoList/Pods-WeexTodoList-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FAC931FCC3A6E6C4C814917F /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-WeexTodoListUITests/Pods-WeexTodoListUITests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -448,7 +563,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				17E05FD91DF96DD600607B9A /* WeexTodoTests.m in Sources */,
+				17E05FD91DF96DD600607B9A /* WeexTodoListTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -456,7 +571,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				17E05FE41DF96DD600607B9A /* WeexTodoUITests.m in Sources */,
+				17E05FE41DF96DD600607B9A /* WeexTodoListUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -465,12 +580,12 @@
 /* Begin PBXTargetDependency section */
 		17E05FD61DF96DD600607B9A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 17E05FBA1DF96DD600607B9A /* WeexTodo */;
+			target = 17E05FBA1DF96DD600607B9A /* WeexTodoList */;
 			targetProxy = 17E05FD51DF96DD600607B9A /* PBXContainerItemProxy */;
 		};
 		17E05FE11DF96DD600607B9A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 17E05FBA1DF96DD600607B9A /* WeexTodo */;
+			target = 17E05FBA1DF96DD600607B9A /* WeexTodoList */;
 			targetProxy = 17E05FE01DF96DD600607B9A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -587,26 +702,26 @@
 		};
 		17E05FE91DF96DD600607B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 263F1855A5A2B8F7762D1039 /* Pods-WeexTodo.debug.xcconfig */;
+			baseConfigurationReference = 263F1855A5A2B8F7762D1039 /* Pods-WeexTodoList.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
-				INFOPLIST_FILE = WeexTodo/Info.plist;
+				INFOPLIST_FILE = WeexTodoList/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.examples.WeexTodo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.examples.WeexTodoList;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
 		17E05FEA1DF96DD600607B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 736B20DC613E353FCBAD230D /* Pods-WeexTodo.release.xcconfig */;
+			baseConfigurationReference = 736B20DC613E353FCBAD230D /* Pods-WeexTodoList.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
-				INFOPLIST_FILE = WeexTodo/Info.plist;
+				INFOPLIST_FILE = WeexTodoList/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.examples.WeexTodo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.examples.WeexTodoList;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -615,11 +730,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = WeexTodoTests/Info.plist;
+				INFOPLIST_FILE = WeexTodoListTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.examples.WeexTodoTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.examples.WeexTodoListTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WeexTodo.app/WeexTodo";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WeexTodoList.app/WeexTodoList";
 			};
 			name = Debug;
 		};
@@ -627,42 +742,42 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = WeexTodoTests/Info.plist;
+				INFOPLIST_FILE = WeexTodoListTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.examples.WeexTodoTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.examples.WeexTodoListTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WeexTodo.app/WeexTodo";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WeexTodoList.app/WeexTodoList";
 			};
 			name = Release;
 		};
 		17E05FEF1DF96DD600607B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 54197007660205E891810945 /* Pods-WeexTodoUITests.debug.xcconfig */;
+			baseConfigurationReference = 54197007660205E891810945 /* Pods-WeexTodoListUITests.debug.xcconfig */;
 			buildSettings = {
-				INFOPLIST_FILE = WeexTodoUITests/Info.plist;
+				INFOPLIST_FILE = WeexTodoListUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.examples.WeexTodoUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.examples.WeexTodoListUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = WeexTodo;
+				TEST_TARGET_NAME = WeexTodoList;
 			};
 			name = Debug;
 		};
 		17E05FF01DF96DD600607B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D1E1E42B2968C9EDC8288A35 /* Pods-WeexTodoUITests.release.xcconfig */;
+			baseConfigurationReference = D1E1E42B2968C9EDC8288A35 /* Pods-WeexTodoListUITests.release.xcconfig */;
 			buildSettings = {
-				INFOPLIST_FILE = WeexTodoUITests/Info.plist;
+				INFOPLIST_FILE = WeexTodoListUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.examples.WeexTodoUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.examples.WeexTodoListUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = WeexTodo;
+				TEST_TARGET_NAME = WeexTodoList;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		17E05FB61DF96DD600607B9A /* Build configuration list for PBXProject "WeexTodo" */ = {
+		17E05FB61DF96DD600607B9A /* Build configuration list for PBXProject "WeexTodoList" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				17E05FE61DF96DD600607B9A /* Debug */,
@@ -671,7 +786,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		17E05FE81DF96DD600607B9A /* Build configuration list for PBXNativeTarget "WeexTodo" */ = {
+		17E05FE81DF96DD600607B9A /* Build configuration list for PBXNativeTarget "WeexTodoList" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				17E05FE91DF96DD600607B9A /* Debug */,
@@ -680,7 +795,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		17E05FEB1DF96DD600607B9A /* Build configuration list for PBXNativeTarget "WeexTodoTests" */ = {
+		17E05FEB1DF96DD600607B9A /* Build configuration list for PBXNativeTarget "WeexTodoListTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				17E05FEC1DF96DD600607B9A /* Debug */,
@@ -689,7 +804,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		17E05FEE1DF96DD600607B9A /* Build configuration list for PBXNativeTarget "WeexTodoUITests" */ = {
+		17E05FEE1DF96DD600607B9A /* Build configuration list for PBXNativeTarget "WeexTodoListUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				17E05FEF1DF96DD600607B9A /* Debug */,

@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  WeexTodo
+//  WeexTodoList
 //
 //  Created by Hanks on 16/12/8.
 //  Copyright © 2016年 Weex. All rights reserved.
