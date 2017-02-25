@@ -14,21 +14,21 @@ const store = new Vuex.Store({
 
   state: {
     todos: {
-      '110ec58a-a0f2-4ac4-8393-c866d813b8d5': {
-        name: "buy groceries",
-        active: true,
-        done: false
-      },
-      '110ec58a-a0f2-4ac4-8393-c866d813b8d2': {
-        name: "wake up",
-        active: true,
-        done: true
-      },
-      '110ec58a-a0f2-4ac4-8393-c866d813b8d3': {
-        name: "wake up",
-        active: false,
-        done: true
-      }
+      // '110ec58a-a0f2-4ac4-8393-c866d813b8d5': {
+      //   name: "buy groceries",
+      //   active: true,
+      //   done: false
+      // },
+      // '110ec58a-a0f2-4ac4-8393-c866d813b8d2': {
+      //   name: "wake up",
+      //   active: true,
+      //   done: true
+      // },
+      // '110ec58a-a0f2-4ac4-8393-c866d813b8d3': {
+      //   name: "wake up",
+      //   active: false,
+      //   done: true
+      // }
     },
     users: {}
   },

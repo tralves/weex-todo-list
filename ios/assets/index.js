@@ -2822,6 +2822,10 @@
 	        return a.done - b.done;
 	      });
 	    }
+	  },
+
+	  mounted: function mounted() {
+	    this.$store.dispatch('LOAD_TODOS');
 	  }
 
 	  // methods: {
@@ -3254,21 +3258,21 @@
 
 	  state: {
 	    todos: {
-	      '110ec58a-a0f2-4ac4-8393-c866d813b8d5': {
-	        name: "buy groceries",
-	        active: true,
-	        done: false
-	      },
-	      '110ec58a-a0f2-4ac4-8393-c866d813b8d2': {
-	        name: "wake up",
-	        active: true,
-	        done: true
-	      },
-	      '110ec58a-a0f2-4ac4-8393-c866d813b8d3': {
-	        name: "wake up",
-	        active: false,
-	        done: true
-	      }
+	      // '110ec58a-a0f2-4ac4-8393-c866d813b8d5': {
+	      //   name: "buy groceries",
+	      //   active: true,
+	      //   done: false
+	      // },
+	      // '110ec58a-a0f2-4ac4-8393-c866d813b8d2': {
+	      //   name: "wake up",
+	      //   active: true,
+	      //   done: true
+	      // },
+	      // '110ec58a-a0f2-4ac4-8393-c866d813b8d3': {
+	      //   name: "wake up",
+	      //   active: false,
+	      //   done: true
+	      // }
 	    },
 	    users: {}
 	  },
@@ -4114,6 +4118,9 @@
 	});
 	exports.TOGGLE_TODO = TOGGLE_TODO;
 	exports.ADD_TODO = ADD_TODO;
+	exports.LOAD_TODOS = LOAD_TODOS;
+	var storage = weex.requireModule('storage');
+
 	function TOGGLE_TODO(_ref, _ref2) {
 	  var commit = _ref.commit,
 	      dispatch = _ref.dispatch,
@@ -4122,6 +4129,8 @@
 	      done = _ref2.done;
 
 	  commit('TOGGLE_TODO', { id: id, done: done });
+
+	  storage.setItem('todos', JSON.stringify(state.todos));
 	}
 
 	function ADD_TODO(_ref3, _ref4) {
@@ -4131,6 +4140,19 @@
 	  var name = _ref4.name;
 
 	  commit('ADD_TODO', { name: name });
+
+	  storage.setItem('todos', JSON.stringify(state.todos));
+	}
+
+	function LOAD_TODOS(_ref5) {
+	  var commit = _ref5.commit,
+	      dispatch = _ref5.dispatch,
+	      state = _ref5.state;
+
+	  storage.getItem('todos', function (todos) {
+	    todos = JSON.parse(todos.data) || {};
+	    commit('SET_TODOS', { todos: todos });
+	  });
 	}
 
 /***/ },
@@ -4151,7 +4173,7 @@
 	function SET_TODOS(state, _ref) {
 	  var todos = _ref.todos;
 
-	  state.todos = todos;
+	  Vue.set(state, 'todos', todos);
 	}
 
 	function TOGGLE_TODO(state, _ref2) {

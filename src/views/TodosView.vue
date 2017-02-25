@@ -48,6 +48,10 @@
             return a.done - b.done
           })
       }
+    },
+
+    mounted: function() {
+      this.$store.dispatch('LOAD_TODOS')
     }
 
     // methods: {

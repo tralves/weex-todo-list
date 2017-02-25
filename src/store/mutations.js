@@ -1,7 +1,7 @@
 const uuidV4 = require('uuid/v4');
 
 export function SET_TODOS (state, { todos }) {
-  state.todos = todos
+  Vue.set(state, 'todos', todos)
 }
 
 export function TOGGLE_TODO (state, { id, done }) {
