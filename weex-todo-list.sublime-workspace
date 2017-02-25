@@ -4,6 +4,74 @@
 		"selected_items":
 		[
 			[
+				"text",
+				"textStyle"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"uu",
+				"uuidV4"
+			],
+			[
+				"A",
+				"ADD_TODO\t(app-header.vue)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tex",
+				"text-align\t(TodosView.vue)"
+			],
+			[
+				"cons",
+				"console\t(mutations.js)"
+			],
+			[
+				"S",
+				"String\t(TodosView.vue)"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"wi",
+				"min-width"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"hei",
+				"line-height"
+			],
+			[
+				"fle",
+				"flex-direction\t(app-header.vue)"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
 				"console",
 				"console.log(\"Name"
 			],
@@ -130,10 +198,6 @@
 			[
 				"tim",
 				"tim-financas\t(utils.js)"
-			],
-			[
-				"A",
-				"APP_SETTINGS"
 			],
 			[
 				"Lessons",
@@ -396,10 +460,6 @@
 				"components\t(main.js)"
 			],
 			[
-				"text",
-				"textfield\t(RgbLeds.vue)"
-			],
-			[
 				"wid",
 				"width"
 			],
@@ -454,114 +514,42 @@
 			[
 				"PI",
 				"PI2GO_POST"
-			],
-			[
-				"ro",
-				"robotState"
-			],
-			[
-				"my",
-				"myPi2Go"
-			],
-			[
-				"Pi",
-				"Pi2Go"
-			],
-			[
-				"ac",
-				"activateRepl"
-			],
-			[
-				"ras",
-				"raspi-soft-pwm"
-			],
-			[
-				"requ",
-				"required"
-			],
-			[
-				"cer",
-				"certificate"
-			],
-			[
-				"Users",
-				"UsersRepository\t(LocalCarrierIntegrator.php)"
-			],
-			[
-				"Service",
-				"ServiceSubscriptionTransformer"
-			],
-			[
-				"serviceS",
-				"service_subscriptions\t(2016_03_14_181658_create_service_subscriptions_collection.php)"
-			],
-			[
-				"R",
-				"Repositories\t(LocalCarrierIntegrator.php)"
-			],
-			[
-				"req",
-				"request"
-			],
-			[
-				"user",
-				"users"
-			],
-			[
-				"pincode",
-				"pincodeService"
-			],
-			[
-				"Reques",
-				"Request\t(AuthController.php)"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"contents": "{\n  \"name\": \"weex-todo-list\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Weex HackerNews App, powered by Vue.js.\",\n  \"main\": \"index.js\",\n  \"keywords\": [\n    \"weex\",\n    \"vue\",\n    \"hackernews\",\n    \"javascript\",\n    \"android\",\n    \"ios\"\n  ],\n  \"scripts\": {\n    \"build\": \"webpack\",\n    \"dev\": \"webpack --watch\",\n    \"copy:android\": \"cp dist/index.weex.js android/app/src/main/assets/index.js\",\n    \"copy:ios\": \"cp dist/index.weex.js ios/assets/index.js\",\n    \"copy\": \"npm run copy:android && npm run copy:ios\",\n    \"serve\": \"serve -p 1337\",\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"engines\": {\n    \"node\": \">=4.0\"\n  },\n  \"author\": \"Hanks <zhanghan.me@gmail.com>\",\n  \"license\": \"Apache-2.0\",\n  \"dependencies\": {\n    \"vue\": \"^2.1.10\",\n    \"vue-router\": \"^2.1.1\",\n    \"vuex\": \"^2.1.1\",\n    \"vuex-router-sync\": \"^4.0.1\",\n    \"weex-vue-render\": \"^0.2.0\"\n  },\n  \"devDependencies\": {\n    \"babel-core\": \"^6.20.0\",\n    \"babel-loader\": \"^6.2.9\",\n    \"babel-preset-es2015\": \"^6.18.0\",\n    \"css-loader\": \"^0.26.1\",\n    \"serve\": \"^1.4.0\",\n    \"vue-loader\": \"^10.0.2\",\n    \"vue-template-compiler\": \"^2.1.10\",\n    \"webpack\": \"^1.14.0\",\n    \"weex-loader\": \"^0.4.4\"\n  }\n}\n",
-			"file": "package.json",
-			"file_size": 1177,
-			"file_write_time": 131322775210000000,
+			"file": "src/components/todo.vue",
 			"settings":
 			{
-				"buffer_size": 1176,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/entry.js",
-			"settings":
-			{
-				"buffer_size": 719,
+				"buffer_size": 2682,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/tiagoalves/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+			"file": "src/store/index.js",
 			"settings":
 			{
-				"buffer_size": 1694,
+				"buffer_size": 1120,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "weex-todo-list.sublime-project",
+			"file": ".gitignore",
 			"settings":
 			{
-				"buffer_size": 555,
-				"encoding": "UTF-8",
+				"buffer_size": 360,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": ".babelrc",
+			"file": "src/components/app-header.vue",
 			"settings":
 			{
-				"buffer_size": 96,
+				"buffer_size": 1730,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -775,11 +763,81 @@
 	"expanded_folders":
 	[
 		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/androidTest",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/androidTest/java",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/androidTest/java/com",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/assets",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/java",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/java/com/tiagoalves",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/java/com/tiagoalves/weextodolist",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/res",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/res/layout",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/res/mipmap-mdpi",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/res/mipmap-xxxhdpi",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/res/values",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/res/values-w820dp",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/test/java",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/test/java/com",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/test/java/com/tiagoalves",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/test/java/com/tiagoalves/weextodolist",
 		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/src",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/src/components",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/src/filters",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/src/mixins",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/src/store",
 		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/src/views"
 	],
 	"file_history":
 	[
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/src/components/app-header.vue",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/java/com/tiagoalves/weextodolist/ImageAdapter.java",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/java/com/tiagoalves/weextodolist/WXApplication.java",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/test/java/com/tiagoalves/weextodolist/ExampleUnitTest.java",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/res/values/colors.xml",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/res/values/strings.xml",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/ios/Podfile",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/ios/HackerNews/AppDefine.h",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/ios/HackerNews/AppDelegate.h",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/ios/HackerNews/AppDelegate.m",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/ios/HackerNews/main.m",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/ios/HackerNews/ViewController.h",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/ios/HackerNews/ViewController.m",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/ios/HackerNews/WXEventModule.h",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/ios/HackerNews/WXEventModule.m",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/ios/HackerNews/WXImgLoaderDefaultImpl.h",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/ios/HackerNews/WXImgLoaderDefaultImpl.m",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/ios/HackerNews.xcodeproj/project.pbxproj",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/ios/HackerNews.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/ios/HackerNews.xcworkspace/contents.xcworkspacedata",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/ios/HackerNewsTests/HackerNewsTests.m",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/ios/HackerNewsUITests/HackerNewsUITests.m",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/package.json",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/AndroidManifest.xml",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/assets/index.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/build.gradle",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/androidTest/java/com/example/weex/hackernews/ExampleInstrumentedTest.java",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/java/com/example/weex/hackernews/ImageAdapter.java",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/java/com/example/weex/hackernews/MainActivity.java",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/java/com/example/weex/hackernews/WXApplication.java",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/main/res/layout/activity_main.xml",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/android/app/src/test/java/com/example/weex/hackernews/ExampleUnitTest.java",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/dist/index.web.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/dist/index.weex.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/src/entry.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/src/router.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/src/views/TodosView.vue",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/src/components/todo.vue",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/src/store/index.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/index.html",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/src/store/mutations.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/src/store/actions.js",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/.babelrc",
+		"/Users/tiagoalves/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/weex-todo-list.sublime-project",
 		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/weex/weex-todo-list/.eslintrc.js",
 		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/push-notification/push-notifications.js",
 		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/package.json",
@@ -862,56 +920,11 @@
 		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/courses/index.html",
 		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/scss/mlearn-themes/media-queries.scss",
 		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/home/show_bbc_news.html",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/modules/finished.html",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/profile/_level_header.html",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/lessons/finished.html",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/lessons.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/directives/question-list-exam.html",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/models/profile.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/directives/question-list.html",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/directives/content-types/questions/question.html",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/directives/content-types/questions/speech-question.html",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/directives/content-types/questions/writing-question.html",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/lessons/switch-content-type.html",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/ionic.custom.bundle.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/content-types/writing-question.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/content-types/question.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/initializers/load-course-content.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/question-list.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/content-types/text.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/content-types/enrichment-options.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/content-types/speech-question.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/content-types/audio-question.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/content-types/sentence-completing-question.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/lessons-external-link.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/initializers/initialize-app.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/util/loaded-db-register.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/course.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/directives/content-types/questions/audio-question.html",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/practices.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/feedbacks/writing-question.html",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/feedbacks/speech-question.html",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/plugins/cordova-plugin-crosswalk-webview/package.json",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/exam.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/question-list-exam.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/constants/synclable_resources.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/general/review_modal.html",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/lessons/show.html",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/contents/download-images.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/directives/content-types/README.md",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/util/device.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/db/pouchdb_provider.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/util/refresh-token.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/controllers/concerns/utils.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/util/saveCourseContents.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/util/fake-uuid.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/contents/download-content.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/plugins/cordova-plugin-media/src/tizen/MediaProxy.js",
-		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/js/services/prepare-data/reload-profile-score.js"
+		"/Volumes/MacOSXExt/Users/tiagoalves/Projects/mLearn/others/appcursos_frontend/www/templates/modules/finished.html"
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -953,9 +966,27 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
+			";",
+			"switch",
+			"HackerNews",
+			"hackernews",
+			"weex-todo-list",
+			"com.example.weex.hackernews",
+			"hackernews",
+			"body > div",
+			"text",
+			",",
+			"MARK_DONE",
+			"title",
+			"story",
+			"append",
+			"title",
+			"div",
+			"h1",
+			"div",
 			"skipMsisdnValidation",
 			"SKIP_MSISDN_VALIDATION",
 			"dbName",
@@ -1065,25 +1096,7 @@
 			"push",
 			"Debounce",
 			"menu",
-			"102",
-			"walk",
-			"crosswalk",
-			"22",
-			"center",
-			"68px",
-			"header-item",
-			"title-left",
-			"title title-left header-item",
-			"text-ali",
-			"  <div ng-switch-when=\"video\" class=\"padding card\">\n    <ct-text text=\"steps[$index].body\"\n        controlcontent=\"true\"\n        last=\"{{$last}}\"\n        attachments=\"steps[$index].content_attachments\"\n        url=\"isContentDownloaded(steps[$index])? getContentLocalURL(steps[$index]) : steps[$index]['download-url']\">\n    </ct-text>\n    <div ng-bind-html=\"'general.no_connection' | translate\" class=\"no-connection\" ng-if=\"!isOnline() && !isContentDownloaded(steps[$index])\"></div>\n  </div>",
-			"  <div ng-switch-when=\"video\" class=\"padding\">\n    <ct-text text=\"steps[$index].body\"\n        controlcontent=\"true\"\n        last=\"{{$last}}\"\n        attachments=\"steps[$index].content_attachments\"\n        url=\"isContentDownloaded(steps[$index])? getContentLocalURL(steps[$index]) : steps[$index]['download-url']\">\n    </ct-text>\n    <div ng-bind-html=\"'general.no_connection' | translate\" class=\"no-connection\" ng-if=\"!isOnline() && !isContentDownloaded(steps[$index])\"></div>\n  </div>",
-			"    <div ng-bind-html=\"'general.no_connection' | translate\" class=\"no-connection\" ng-if=\"!isOnline() && !isContentDownloaded(steps[$index])\"></div>",
-			"    <ct-text text=\"steps[$index].body\"\n        controlcontent=\"true\"\n        last=\"{{$last}}\"\n        attachments=\"steps[$index].content_attachments\"\n        url=\"isContentDownloaded(steps[$index])? getContentLocalURL(steps[$index]) : steps[$index]['download-url']\">\n    </ct-text>",
-			"<ct-text text=\"steps[$index].body\"\n        controlcontent=\"true\" \n        last=\"{{$last}}\" \n        attachments=\"steps[$index].content_attachments\" \n        url=\"isContentDownloaded(steps[$index])? getContentLocalURL(steps[$index]) : steps[$index]['download-url']\">\n    </ct-text>",
-			"attachments=\"steps[$index].content_attachments\"",
-			"rl=\"isContentDownloaded(steps[$index])? getContentLocalURL(steps[$index]) : steps[$index]['download-url']\">",
-			"    <ct-text text=\"steps[$index].body\" \n        controlcontent=\"true\" \n        last=\"{{$last}}\" \n        attachments=\"steps[$index].content_attachments\" \n        url=\"isContentDownloaded(steps[$index])? getContentLocalURL(steps[$index]) : steps[$index]['download-url']\">\n    </ct-text>",
-			"    <ct-text text=\"steps[$index].body\" \n        controlcontent=\"true\" \n        last=\"{{$last}}\" \n        attachments=\"steps[$index].content_attachmetns\" \n        url=\"isContentDownloaded(steps[$index])? getContentLocalURL(steps[$index]) : steps[$index]['download-url']\">\n    </ct-text>"
+			"102"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1091,6 +1104,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"WeexTodo",
+			"weextodolist",
+			"com.tiagoalves.weex-todo-list",
 			"error_end_date_greater_than_init_date",
 			"error_value_greater_than_cost",
 			"text_value_you_need",
@@ -1124,24 +1140,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "package.json",
+					"file": "src/components/todo.vue",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1176,
+						"buffer_size": 2682,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								660,
-								668
+								93,
+								93
 							]
 						],
 						"settings":
@@ -1153,8 +1169,8 @@
 								{
 									"1":
 									[
-										682,
-										683
+										93,
+										94
 									]
 								},
 								"icon":
@@ -1169,8 +1185,8 @@
 								{
 									"1":
 									[
-										652,
-										653
+										83,
+										84
 									]
 								},
 								"unmatched":
@@ -1239,43 +1255,73 @@
 							"color_helper.color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 							"color_helper.file_palette":
 							[
+								"#2c3e50ff",
+								"#35495eff",
+								"#404040ff",
+								"#a0a0a0ff",
+								"#ffffffff"
 							],
+							"color_helper.popup_active": false,
+							"color_helper.popup_auto": true,
 							"color_helper.preview_meta":
 							{
 							},
 							"color_helper.scan":
 							{
-								"current_ext": ".json",
-								"current_syntax": "Seti_UI/icons/Langs/npm JSON",
-								"enabled": false,
-								"last_updated": 1487797965.28
+								"allowed_colors":
+								[
+									"rgb",
+									"rgba",
+									"hex_compressed",
+									"hsl",
+									"hex",
+									"webcolors",
+									"hsla"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".vue",
+								"current_syntax": "Vuejs Complete Package/vue",
+								"enabled": true,
+								"last_updated": 1487797965.28,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
 							},
-							"syntax": "Packages/Seti_UI/icons/Langs/npm JSON.tmLanguage",
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 155.0,
+						"translation.y": 116.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "src/entry.js",
+					"file": "src/store/index.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 719,
+						"buffer_size": 1120,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								52,
-								52
+								547,
+								547
 							]
 						],
 						"settings":
@@ -1287,15 +1333,15 @@
 								{
 									"1":
 									[
-										51,
-										52
+										554,
+										555
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/single_quote.png",
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
 										"brackethighlighter.default"
 									]
 								},
@@ -1303,8 +1349,8 @@
 								{
 									"1":
 									[
-										41,
-										42
+										480,
+										481
 									]
 								},
 								"unmatched":
@@ -1384,273 +1430,9 @@
 								"enabled": false,
 								"last_updated": 1487797965.28
 							},
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/tiagoalves/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1694,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								269,
-								745
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										277,
-										278
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										269,
-										270
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"color_helper.box_height": 18,
-							"color_helper.color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-							"color_helper.file_palette":
-							[
-							],
-							"color_helper.preview_meta":
-							{
-							},
-							"color_helper.scan":
-							{
-								"current_ext": ".sublime-settings",
-								"current_syntax": "JavaScript/JSON",
-								"enabled": false,
-								"last_updated": 1487797965.28
-							},
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 4,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "weex-todo-list.sublime-project",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 555,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								552,
-								552
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										551,
-										552
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										66,
-										67
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"color_helper.box_height": 18,
-							"color_helper.color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-							"color_helper.file_palette":
-							[
-							],
-							"color_helper.preview_meta":
-							{
-							},
-							"color_helper.scan":
-							{
-								"current_ext": ".sublime-project",
-								"current_syntax": "JavaScript/JSON",
-								"enabled": false,
-								"last_updated": 1487797965.28
-							},
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1660,20 +1442,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": ".babelrc",
-					"semi_transient": false,
+					"buffer": 2,
+					"file": ".gitignore",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 96,
+						"buffer_size": 360,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								96,
-								96
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1763,17 +1545,241 @@
 							"color_helper.scan":
 							{
 								"current_ext": "",
-								"current_syntax": "Text/Plain text",
+								"current_syntax": "Seti_UI/icons/Langs/Git",
 								"enabled": false,
 								"last_updated": 1487797965.28
 							},
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Seti_UI/icons/Langs/Git.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/components/app-header.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1634,
+								1634
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1719,
+										1720
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1353,
+										1354
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+								"#2c3e50ff",
+								"#35495eff",
+								"#42b983ff",
+								"#ffffffff"
+							],
+							"color_helper.preview_meta":
+							{
+								"1054":
+								[
+									-6777299014596688249,
+									7,
+									"hex",
+									859057615018683464,
+									3,
+									"1487824852.867873"
+								],
+								"1421":
+								[
+									6261078033344529261,
+									7,
+									"hex",
+									859057615018683464,
+									4,
+									"1487824886.613722"
+								],
+								"1452":
+								[
+									4093960028639903932,
+									7,
+									"hex",
+									859057615018683464,
+									5,
+									"1487824886.618966"
+								],
+								"1599":
+								[
+									1920072928679914785,
+									5,
+									"webcolors",
+									-410600689551650786,
+									7,
+									"1487824895.679241"
+								],
+								"1708":
+								[
+									-6777299014596688249,
+									7,
+									"hex",
+									859057615018683464,
+									8,
+									"1487826484.12273"
+								],
+								"810":
+								[
+									4093960028639903932,
+									7,
+									"hex",
+									859057615018683464,
+									1,
+									"1487824843.293872"
+								],
+								"841":
+								[
+									7217482688959356585,
+									7,
+									"hex",
+									859057615018683464,
+									2,
+									"1487824843.298919"
+								]
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"rgb",
+									"rgba",
+									"hex_compressed",
+									"hsl",
+									"hex",
+									"webcolors",
+									"hsla"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".vue",
+								"current_syntax": "Vuejs Complete Package/vue",
+								"enabled": true,
+								"last_updated": 1487797965.28,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1013.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1844,16 +1850,24 @@
 		"selected_items":
 		[
 			[
+				"app",
+				"src/components/app-header.vue"
+			],
+			[
+				"todo",
+				"src/components/todo.vue"
+			],
+			[
+				"app-",
+				"src/components/app-header.vue"
+			],
+			[
 				"car",
 				"config/carrier-integrators.php"
 			],
 			[
 				"mlu",
 				"config/mlumen-services.php"
-			],
-			[
-				"app",
-				"js/services/constants/app_settings.js"
 			],
 			[
 				"qualifica/app_se",
@@ -2346,14 +2360,6 @@
 			[
 				"analy",
 				"js/services/util/analytics-events.js"
-			],
-			[
-				"secure",
-				"js/services/constants/secure-pages.js"
-			],
-			[
-				"appcon",
-				"js/controllers/app_controller.js"
 			]
 		],
 		"width": 0.0
@@ -2388,7 +2394,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 265.0,
+	"side_bar_width": 317.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

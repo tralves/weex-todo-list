@@ -2,6 +2,7 @@
 .idea/
 *.iml
 .DS_Store
+*.sublime-workspace
 
 # Created by Builder
 coverage
