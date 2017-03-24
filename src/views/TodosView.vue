@@ -13,8 +13,8 @@
     </list>
     <div class="loading" v-if="loading">
       <text class="loading-text">loading ...</text>
-    </div>
-  </div> -->
+    </div> -->
+  </div>
 </template>
 
 <script>
